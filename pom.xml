@@ -15,7 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <distributionManagement>
+ <distributionManagement>
     <repository>
         <id>central</id>
         <name>vm1-releases</name>
